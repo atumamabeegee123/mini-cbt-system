@@ -9,6 +9,8 @@ questions
 - Automatic scoring
 - Shows result with time
 update 1
+update 2
+update 3
 How to run:
 1. Install Flask
 2. Run python app.py
