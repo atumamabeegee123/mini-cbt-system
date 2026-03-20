@@ -19,3 +19,8 @@ questions_list = [
     "options": ["3", "4", "5"],
     "answer": "4"
 }
+{
+    "question": "Who developed the theory of relativity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei"],
+    "answer": "Albert Einstein"
+}
