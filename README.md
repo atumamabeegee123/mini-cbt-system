@@ -1,6 +1,5 @@
 Mini CBT System
-This is a mini CBT system built with Flask
-
+This is a mini CBT system built with Flask 
 This project is a web-based test system built with Flask.
 
 Features:
