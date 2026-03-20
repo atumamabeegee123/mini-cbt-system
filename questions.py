@@ -29,3 +29,8 @@ questions_list = [
     "options": ["Earth", "Jupiter", "Saturn"],
     "answer": "Jupiter"
 }
+{
+    "question": "Which language is primarily spoken in Brazil?",
+    "options": ["Spanish", "Portuguese", "French"],
+    "answer": "Portuguese"
+}
