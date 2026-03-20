@@ -3,7 +3,9 @@ This is a mini CBT system built with Flask
 This project is a web-based test system built with Flask.
 
 Features:
-- Multiple choice questions
+- Multiple choice 
+Add project description
+questions
 - Automatic scoring
 - Shows result with time
 
