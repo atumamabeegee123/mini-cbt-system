@@ -9,6 +9,7 @@ add models
 add questions
 add flask
 add html
+fix bug
 questions
 - Automatic scoring
 - Shows result with time
