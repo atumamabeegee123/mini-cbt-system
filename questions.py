@@ -24,3 +24,8 @@ questions_list = [
     "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei"],
     "answer": "Albert Einstein"
 }
+{
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Jupiter", "Saturn"],
+    "answer": "Jupiter"
+}
