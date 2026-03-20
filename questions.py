@@ -14,3 +14,8 @@ questions_list = [
     Question("What is the largest ocean on Earth?", ["Atlantic", "Indian", "Pacific", "Arctic"], "Pacific"),
     Question("Who wrote 'Things Fall Apart'?", ["Wole Soyinka", "Chinua Achebe", "Ngugi wa Thiong'o", "Ben Okri"], "Chinua Achebe"),
 ]
+{
+    "question": "What is 2 + 2?",
+    "options": ["3", "4", "5"],
+    "answer": "4"
+}
