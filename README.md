@@ -1,4 +1,5 @@
 Mini CBT System
+This is a mini CBT system built with Flask
 
 This project is a web-based test system built with Flask.
 
@@ -11,3 +12,5 @@ How to run:
 1. Install Flask
 2. Run python app.py
 3. Open browser
+pip install flask
+Author: Abdulrahman
