@@ -34,3 +34,8 @@ questions_list = [
     "options": ["Spanish", "Portuguese", "French"],
     "answer": "Portuguese"
 }
+{
+    "question": "What is the chemical symbol for water?",
+    "options": ["O2", "H2O", "CO2"],
+    "answer": "H2O"
+}
