@@ -39,3 +39,8 @@ questions_list = [
     "options": ["O2", "H2O", "CO2"],
     "answer": "H2O"
 }
+{
+    "question": "What is the boiling point of water at sea level?",
+    "options": ["90°C", "100°C", "120°C"],
+    "answer": "100°C"
+}
